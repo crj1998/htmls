@@ -1,5 +1,13 @@
 # htmls
 
+## 开放API查询
+
+    http://api.asilu.com/#geo
+
+## json转jsonp
+    
+    https://jsonp.afeld.me/
+
 ## 有道云翻译jsonp API
  详细使用参考[有道云翻译API](http://fanyi.youdao.com/openapi?path=web-mode)
  
