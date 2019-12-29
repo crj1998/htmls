@@ -102,7 +102,18 @@ errorCode：
 - 此平台将于 2018-12-31 后停止运行，敬请尽快升级。
 
 ### keyfrom与key
+可用key  
 
+keyfrom|key  
+-|-  
+Go-English|1346410123  
+github-wdict|619541059  
+ice-blog-home|1274584216   
+httponnection|316264537  
+ArticleBreaker|1968023498
+qiyunkj|330102425
+zhengwen&key|1318083984
+findtrth|678238549
 
 
 
